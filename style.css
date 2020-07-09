@@ -1,0 +1,206 @@
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    
+    }
+        .navs{
+        width: 99%;
+        height:750px;
+        padding-top:30px ;
+        padding-right: 300px;
+         background-color: #f0fff0;
+    }
+    .logo{
+        position: absolute;
+        width:250px;
+        height: 60px;
+        top: 30px;
+    }
+    .navs .first-one{
+        padding-left:600px;
+        margin-left: 50px;
+    
+    }
+    .navs a{
+        color:black;
+        font-size: 24px;
+        padding:15px;
+        padding-bottom: 30px;
+    }
+    .sign-button{
+        display: flex; 
+        flex-direction: row;
+        padding: 8px 36px;
+        margin-top: 3%;
+        color: white;
+        background: #21B573;
+        border: none;
+        border-radius: 33px;
+    }
+    .h5{
+        color:red;
+        font-size:16px;
+    
+    }
+    .h1{
+        font-weight: 1200px;
+        font-size: 50px;
+    }
+    .h1 span{
+        color:#21bf73;
+    }
+    .navs .row img{
+        padding-right: 100px;
+    }
+    .navs .row p{
+        color:grey;
+    }
+    
+    
+    #second{
+        height:300px;
+        width:100%;
+        background-color: white;
+    }
+    #second .row .One{
+        background-color: #f0fff0;
+         padding:20px 40px;
+    }
+    #second .row .One h3{
+        font-size: 18px;
+        padding-top: 20px;
+        
+    }
+    #second .row{
+        padding-top: 100px;
+        padding-right: 135px;
+        padding-left: 100px;
+        height:100px;
+    
+    }
+    #second .row .in:hover{
+        background-color: whitesmoke;
+        box-shadow: 10px 10px 40px lightgray;
+    }
+    #second .row .One p{
+        display:flex;
+        align-items: center;
+        justify-content: center;
+    
+    
+    }
+    
+    .cards-deck{
+        margin-top: 100px;
+        margin-left: 100px;
+        padding-left: 200px;
+        padding-right: 200px;
+        background-color: #f0fff0;
+        height:250px;
+        width:80%;
+        
+    }
+    .cards-deck .book1,.book2,.book3,.book4{
+        border:2px solid pink;
+        height: 150px;
+        padding:10px 30px;
+    }
+    .online{
+        margin-top:200px;
+    }
+    .online h1{
+        padding-left: 400px;
+        padding-bottom: 50px;
+    }
+    .online img{
+        padding-left: 10px;
+        padding-top: 10px;
+        width:96%;
+    }
+    .online .sticker{
+        padding-left:50px;
+    }
+    .card-deck .card{
+        box-shadow: 10px 10px 40px gray;
+        border-radius: 5%;
+    }
+    .testimonial{
+        margin-top:200px;
+        height: 400px;
+      
+       }
+       
+    .testimonial h1{
+        text-align: center;
+        color:black;
+        padding-right: 250px;
+        padding-bottom:60px;
+        
+    }
+    .testimonial .col-md-4 img{
+        padding-top:30px;
+       
+    }
+    .testimonial p{
+        padding-right: 200px;
+    }
+    footer{
+        padding-top: 50px;
+        margin-top: 200px;
+        width:100%;
+        height: 369px;
+        background-color: #282531;
+        color:white;
+    }
+    footer .row .para{
+       padding: 30px 40px;
+    }
+    footer .other-footer{
+        font-size: 14px;
+        color:gray;
+        text-align: center;
+        padding-top:70px;
+        padding-bottom:3px;
+    }
+    footer p{
+        font-size:16px;
+    }
+    footer h6{
+        font-weight: bold;
+        font-size:18px;
+    }
+    h2{
+        padding-left:600px;
+       margin-top:50px;
+    }
+    .last-part{
+        box-shadow: 10px 10px 40px gray;
+        background:#f0fff0;
+        padding: 30px;
+        
+        margin-left:300px;
+        width:60%;
+        height:500px;
+    }
+    .font-awesome{
+       
+        background-color: gray;
+       
+    
+    }
+    .font-awesome h4{
+        margin: 100px;
+    }
+    .font-awesome i{
+        width:30px;
+        margin:10px 30px;
+        font-size:50px;
+        
+    }
+    .font-awesome .row .col-md-4{
+        padding-left: 50px;
+    }
+    .font-awesome p{
+        font-size: 40px;
+        padding-left: 30px;
+    }
